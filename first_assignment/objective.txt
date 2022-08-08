@@ -1,0 +1,13 @@
+HTML: Hello World
+Let's get tinkering with HTML!
+
+Assignment: See your HTML file in a browser.
+
+Directions
+
+Open a browser, such as Firefox or Chrome.
+Find your LastName_FirstName_VS_Assignment_1.html file on your computer (remember where you saved it from the Intro Course / Setting Up Your Computer / First VS Assignment?)
+Click and drag the file into your browser or double-click the file itself. Tada! You should see the text "Hello World!" displayed in your browser.
+
+
+Reminder: This is an opportunity for you to build the habit of showing up for yourself. Although we won't be reviewing your work, your brain needs this workout. Remember, practice a skill regardless of whether a coach or teacher or boss or peer will look at it. This isn't a university. This is the Dojo.
