@@ -11,4 +11,4 @@ Results Of The Pre-BootCamp:
   - Basic algorithms and data structures
   - Interacting with html and js 
   
- In Summary, this helped up really get to understand the basics of web developement to hit the ground running immeidately in the bootcamp.
+ ## In Summary, this helped up really get to understand the basics of web developement to hit the ground running immeidately in the bootcamp.
